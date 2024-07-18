@@ -1,0 +1,8 @@
+GIT LEARNING
+https://www.youtube.com/watch?v=mRODOdgxXdk&list=PLjVLYmrlmjGdIVmcu5nfgE68jANQetnOX&index=4
+
+GIT LECT:
+All from book chapters
+
+Learn ssh key 
+https://www.youtube.com/watch?v=X40b9x9BFGo
